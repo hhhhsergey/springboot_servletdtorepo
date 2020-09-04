@@ -6,6 +6,6 @@ jparepository + hibernate + mysql
 
 modelmapper to convert to dto
 
-controller methods: listall, findbyidandhandle, exeption
+controller methods: listall, findbyidandhandle, exception
 
 view: html + thymeleaf
